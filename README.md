@@ -2,4 +2,8 @@ THis file was edited by vim!
 Just for 1st push！
 ##Markdown
 
-###add branch feature-A!
+
+#feature-A!
+=======
+#add fix-B
+
